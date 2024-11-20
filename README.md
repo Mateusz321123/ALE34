@@ -1,5 +1,4 @@
-# Przykład
+# Test repository
 
-## przykład 2
-
-### przykład 3
+This repository is a simple example for learning Markdown and basic Git structure.  
+The image is stored in the `images` directory for demonstration purposes.
